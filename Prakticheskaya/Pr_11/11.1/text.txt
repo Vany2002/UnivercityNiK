@@ -1,0 +1,7 @@
+Time: 13:13:52
+City: ['Москва']
+Temperature: ['-2.98']
+Air humidity: ['86']
+Wind speed: ['5.58']
+Atmosphere pressure: ['1011']
+

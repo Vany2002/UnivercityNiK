@@ -1,0 +1,64 @@
+быть|be|4
+сегодня|today|4
+обжа|обжа|3
+бро|бро|2
+весело|fun|2
+да|yes|2
+здаров|U fine|2
+на|on|2
+прислать|Submit|2
+только|only|2
+что|what|2
+бабка|Babka|1
+быть|be|1
+быть|be|1
+военком|военком|1
+вот|Here,|1
+время|Time|1
+выходной|Weekend|1
+дисциплина|Discipline|1
+ехать|to go|1
+ещё|more|1
+же|Ge|1
+за|per|1
+засейвилы|seeding|1
+зачем|what for|1
+зачёт|passed|1
+кайф|Feelgood|1
+какой|which|1
+капец|Fubar|1
+конец|end|1
+круто|Kruto|1
+курс|course|1
+наверное|Robley.|1
+надо|надо|1
+написать|Comment|1
+мы|we're|1
+нифига|Enjoy your holidays!|1
+но|но|1
+ночью|at night|1
+обследование|survey|1
+однозначно|однозначно|1
+отлично|excellent|1
+отсрочка|respite|1
+первый|first|1
+повестка|MILITARY SUBPOENA|1
+понедельник|Monday|1
+посмотреть|view|1
+поугарать|to get a bite out of it|1
+пройти|away|1
+просто|Simple|1
+раз|time|1
+свободный|Free ranging|1
+сказать|tell|1
+следующий|Дараачийн|1
+следующий|Дараачийн|1
+среда|environment|1
+ты|ration|1
+тип|Type|1
+уже|Your Business|1
+универ|Univer|1
+четвёртый|4th|1
+чисто|clear|1
+сейчас|Now,|1
+это|is|1
